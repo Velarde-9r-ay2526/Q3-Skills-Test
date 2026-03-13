@@ -1,0 +1,17 @@
+.container {
+
+    border:3px solid rgb(79, 78, 76);
+    background-color: rgb(199, 199, 198);
+    padding: 15px;
+    margin: 20px auto;
+
+    text-align: center;
+    width: 50%;
+
+
+}
+
+body {
+
+    background-image: url(black-370118_1280.png)
+}
